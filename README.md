@@ -102,7 +102,7 @@ L'application vise à offrir aux administrateurs :
 - **Bibliothèques** : OpenCV, YOLO (Object Detection)
 - **Traitement d'images** : Contour detection, Optical Flow
 - **Calcul vitesse** : Analyse de flux vidéo temps-réel
-- <img src="image/1.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
+- <img src="image/f.png" style="width: 80%; max-width: 600px; height: auto; display: block; margin: 20px auto; border: 2px solid #ccc; border-radius: 10px;" alt="Aperçu de l'image">
 
 <div align="right">
   <a href="#top">⬆ Retour en haut</a>
